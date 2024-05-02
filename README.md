@@ -12,3 +12,11 @@
 ### Condition
 - all ids < 700 will receive new messsages
 - anyone can send messages
+
+### Message send
+```
+user 1 - {{$randomCatchPhrase}}
+user 2 - {{$randomCatchPhrase}}
+user 3 - {{$randomCatchPhrase}}
+user 4 - {{$randomCatchPhrase}}
+```
